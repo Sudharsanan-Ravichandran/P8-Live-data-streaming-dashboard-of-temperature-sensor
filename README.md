@@ -2,6 +2,8 @@
 
 # P8-Live data streaming dashboard of temperature sensor
 
+![Alt text](Assets/Images/Linkedin_video_thumbnail.jpg)
+
 **Live streaming of room temperature data with end-to-end IoT pipeline: from sensor to dashboard visualization.**
 
 ***
@@ -59,6 +61,8 @@ This project demonstrates a full-stack IoT data pipeline to **collect, process, 
 - **Real-time streaming:** Data published every 5–30 seconds
 - **Low-latency, scalable, and decoupled design**
 - **ETL via Node-Red:** Extract → Transform → Load for both SQL and time-series DB
+
+[▶️ Watch the demo video](https://github.com/Sudharsanan-Ravichandran/P8-Live-data-streaming-dashboard-of-temperature-sensor/blob/main/Assets/Videos/Live_Streaming_Temperature_Sensor.mp4)
 
 ***
 
